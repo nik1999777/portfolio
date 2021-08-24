@@ -1,0 +1,17 @@
+.error {
+    border: 1px solid red;
+}
+
+label.error {
+    border: none;
+    position: absolute;
+    top: 43px;
+    background: transparent;
+    color: white;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+#comments-error {
+    top: 188px;
+}
